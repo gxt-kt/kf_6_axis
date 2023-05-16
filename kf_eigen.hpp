@@ -4,6 +4,12 @@
 #include <Eigen/Dense>
 #include <cmath>
 
+// @input:
+//   time: time stamp (s)
+//   acc_*: accelerate (m/s^2) actually the unit is not important
+//   gyro_*: gyroscope (rad/s)
+// @Output:
+//   Eigen::Vector3<T> : roll pitch yaw (rad/s)
 template <typename Time, typename T>
 inline Eigen::Vector3<T> KF_6_Axis(Time time, T acc_x, T acc_y, T acc_z,
                                    T gyro_x, T gyro_y, T gyro_z) {
