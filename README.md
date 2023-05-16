@@ -3,8 +3,10 @@
 
 
 > 教程链接： https://www.bilibili.com/video/BV1nh411w7b4/
-> 
+>
 > 核心代码在`kf_eigen.hpp`文件里
+>
+> github首页README中的公式可能会乱码，可以下载后用其它LATEX工具查看（推荐typora查看md文件）
 
 
 
