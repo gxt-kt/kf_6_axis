@@ -1,0 +1,23 @@
+build/
+compile_commands.json
+
+# vscode projcet
+.vscode/
+
+# Sublime Text editor project files
+*.sublime-project
+*.sublime-workspace
+
+# python module
+*__pycache__/
+
+# conda env
+.env/
+
+# IntelliJ files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# clangd
+.cache/
