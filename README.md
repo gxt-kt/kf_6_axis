@@ -6,6 +6,8 @@
 >
 > 核心代码在`kf_eigen.hpp`文件里
 >
+> github : https://github.com/gxt-kt/kf_6_axis
+>
 > github首页README中的公式可能会乱码，可以下载后用其它LATEX工具查看（推荐typora查看md文件）
 
 
