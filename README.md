@@ -8,7 +8,9 @@
 >
 > github : https://github.com/gxt-kt/kf_6_axis
 >
-> github首页README中的公式可能会乱码，可以下载后用其它LATEX工具查看（推荐typora查看md文件）
+> github首页README中的公式会乱码，可以下载后用其它LATEX工具查看（推荐typora查看md文件）
+> 
+> 或者使用浏览器查看README.html文件
 
 
 
